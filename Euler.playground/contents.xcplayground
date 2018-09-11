@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Table of contents'/>
+        <page name='Multiples of 3 and 5'/>
+        <page name='Even Fibonacci numbers'/>
+        <page name='Largest prime factor'/>
+        <page name='Largest palindrome product'/>
+        <page name='Sample Page'/>
+    </pages>
+</playground>
