@@ -6,6 +6,7 @@
         <page name='Even Fibonacci numbers'/>
         <page name='Largest prime factor'/>
         <page name='Largest palindrome product'/>
-        <page name='Sample Page'/>
+        <page name='Smallest multiple'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>
